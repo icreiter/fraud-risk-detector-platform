@@ -8,6 +8,7 @@ fraud-alert-platform/
 ├── docker-compose.yml          #  (待整理上傳)
 ├── requirements.txt            #  (待整理上傳)
 ├── README.md
+├── README_assets/
 ├── data_sample/                # 3-5 screenshot samples & json sample
 ├── src/
 │   ├── input_dir/              # sample screenshots for OCR
